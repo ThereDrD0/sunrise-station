@@ -1,6 +1,5 @@
 using System.Globalization;
 using System.Linq;
-using Content.Server._Sunrise.Chat;
 using Content.Server._Sunrise.Chat.Sanitization;
 using Content.Server.Administration.Logs;
 using Content.Server.Chat.Systems;
@@ -12,7 +11,6 @@ using Content.Shared.Access.Components;
 using Content.Shared.Access.Systems;
 using Content.Shared.Chat;
 using Content.Shared.Database;
-using Content.Shared.Inventory;
 using Content.Shared.PDA;
 using Content.Shared.Radio;
 using Content.Shared.Radio.Components;
